@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15684723.svg)](https://doi.org/10.5281/zenodo.15684723)
+
 # UF x NASA Logo Design Submission
 
 This repository contains my logo design submission for the **University of Florida x NASA Product Innovation Challenge Design Competition**.
